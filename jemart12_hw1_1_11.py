@@ -1,8 +1,5 @@
 """
-Name: Jose Martinez
-Class: CS 521 - 2020 Spring 1
-Date: 25 January 2020
-Homwork Problem # 1.11
+Homework Problem # 1.11
 Description: Population projection from US Census Bureau where present
 population is 312,032,486
 """
