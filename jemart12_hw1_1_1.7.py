@@ -1,8 +1,5 @@
 """
-Name: Jose Martinez
-Class: CS 521 - 2020 Spring 1
-Date: 25 January 2020
-Homwork Problem # 1.7
+Homework Problem # 1.7
 Description: Writing two separate formulas to estimate pi 
 """
 
