@@ -1,5 +1,5 @@
 """
-Homwork Problem # 1.5
+Homework Problem # 1.5
 Description: Wrtting a program to the express the output of a math problem
 """
 
