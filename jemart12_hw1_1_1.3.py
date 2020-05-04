@@ -1,8 +1,5 @@
 """
-Name: Jose Martinez
-Class: CS 521 - 2020 Spring 1
-Date: 25 January 2020
-Homwork Problem # 1.3
+Homework Problem # 1.3
 Description: Displaying a pattern using the word 'FUN' as a big emoticon
 using uppercase text/letters only.
 """
